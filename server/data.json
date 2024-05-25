@@ -1,0 +1,115 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Pizzas",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo"
+    },
+    {
+      "id": "2",
+      "name": "Burger",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo"
+    },
+    {
+      "id": "3",
+      "name": "Pasta",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo"
+    },
+    {
+      "id": "4",
+      "name": "Desserts",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo"
+    },
+    {
+      "id": "5",
+      "name": "Drinks",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "desc": "Tomato, mozzarella, basil",
+      "price": 8,
+      "category": 1
+    },
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "desc": "Tomato, mozzarella, pepperoni",
+      "price": 9,
+      "category": 1
+    },
+    {
+      "id": "3",
+      "name": "Hawaiian",
+      "desc": "Tomato, mozzarella, ham, pineapple",
+      "price": 10,
+      "category": 1
+    },
+    {
+      "id": "4",
+      "name": "Cheeseburger",
+      "desc": "Beef patty, cheese, lettuce, tomato, onion",
+      "price": 11,
+      "category": 2
+    },
+    {
+      "id": "5",
+      "name": "Chicken Burger",
+      "desc": "Grilled chicken, cheese, lettuce, tomato, onion",
+      "price": 12,
+      "category": 2
+    },
+    {
+      "id": "6",
+      "name": "Spaghetti Bolognese",
+      "desc": "Spaghetti, beef bolognese sauce",
+      "price": 13,
+      "category": 3
+    },
+    {
+      "id": "7",
+      "name": "Penne Arrabiata",
+      "desc": "Penne, tomato, garlic, chilli, parsley",
+      "price": 14,
+      "category": 3
+    },
+    {
+      "id": "8",
+      "name": "Tiramisu",
+      "desc": "Coffee-flavoured Italian dessert",
+      "price": 15,
+      "category": 4
+    },
+    {
+      "id": "9",
+      "name": "Chocolate Cake",
+      "desc": "Chocolate cake with chocolate icing",
+      "price": 16,
+      "category": 4
+    },
+    {
+      "id": "10",
+      "name": "Coke",
+      "desc": "Coca-Cola",
+      "price": 1,
+      "category": 5
+    },
+    {
+      "id": "11",
+      "name": "Sprite",
+      "desc": "Sprite",
+      "price": 1,
+      "category": 5
+    },
+    {
+      "id": "12",
+      "name": "Fanta",
+      "desc": "Fanta",
+      "price": 1,
+      "category": 5
+    }
+  ]
+}
